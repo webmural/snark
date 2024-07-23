@@ -1,0 +1,33 @@
+::selection {
+  background-color: slateblue;
+  color: #bee;
+}
+
+:any-link {
+  color: inherit;
+}
+
+.yex {
+  background-color: #7ef;
+  color: #80d;
+}
+
+.bae {
+  background-color: #bae;
+  color: #404;
+}
+
+.sul {
+  background-color: gold;
+  color: #80d;
+}
+
+.lev {
+  background-color: #80d;
+  color: #ee1;
+}
+
+.luv {
+  background-color: #80d;
+  color: #7ef;
+}
